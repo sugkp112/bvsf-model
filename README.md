@@ -12,15 +12,15 @@ The model integrates Lotka–Volterra competition, genetic drift under bottlenec
 python BVSF_v5.py
 python reliability_tests_v5.py
 
-##Requirements
+## Requirements
 numpy
 scipy
 matplotlib
 scikit-learn
 
-#Citation
+# Citation
 Jiang, Z.-R. (2025). BVSF evolutionary simulation framework for fungal symbiosis.
 GitHub: https://github.com/sugkp112/bvsf-model
 
-#Contact
+# Contact
 Email: ziru.jiang@gmail.com
