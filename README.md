@@ -7,13 +7,13 @@ The model integrates Lotka–Volterra competition, genetic drift under bottlenec
 
 BVSF_v6.py — Generates all simulation figures (LV dynamics, drift–selection, multi-species, ESS).
 
-reliability_tests_v5.py — Numerical and reproducibility validation.
+reliability_tests_v6.py — Numerical and reproducibility validation.
 
 ## Run
 
 python BVSF_v6.py
 
-python reliability_tests_v5.py
+python reliability_tests_v6.py
 
 ## Requirements
 
